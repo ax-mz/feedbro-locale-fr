@@ -243,7 +243,7 @@
     "options_action_update_locale_body": "Mise à jour du fichier de langue",
     "options_action_locale_update_failed": "La mise à jour du fichier de langue a échoué ! Erreur : {1}",
     "options_action_locale_update_success": "Mise à jour du fichier de langue réussie !",
-    "options_action_template_locale_body": "Télécharger le template du fichier de langue (en_US)",
+    "options_action_template_locale_body": "Télécharger le template (en_US)",
     "options_action_template_locale_title": "Utilisez ce modèle pour traduire Feedbro dans une autre langue",
     "options_extensionclick_body": "Cliquer sur l'icône de l'extension Feedbro...",
     "options_extensionclick_select_title": "Définit ce qui se passe lorsque l'on clique sur l'icône de l'extension Feedbro",
